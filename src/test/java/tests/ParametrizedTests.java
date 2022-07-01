@@ -21,5 +21,4 @@ public class ParametrizedTests {
         assertNotNull(first);
         assertNotEquals(0, second);
     }
-
 }
